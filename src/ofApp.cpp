@@ -69,7 +69,7 @@ void ofApp::draw(){
 	ofPushView();
 	ofViewport(viewport2D);
 	
-    // 0,0=left,top
+    	// 0,0=left,top
 	// ofGetViewportWidth(),ofGetViewportHeight()=right,bottom
 	ofSetupScreen();
 
